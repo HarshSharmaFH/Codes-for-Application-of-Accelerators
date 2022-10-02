@@ -3,7 +3,7 @@
 import random
 import time
 import numpy as np
-x=int(input("Enter the index of square matrix = "))
+x=int(input("Enter the order of square matrix = "))
 def getMatrix(x):
     m=[]
     for i in range(x):
